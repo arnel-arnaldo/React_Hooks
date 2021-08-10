@@ -6,4 +6,4 @@
 
 [Article: How to Manage Complex State in React with useReducer](https://blog.webdevsimplified.com/2020-06/use-reducer/)
 
-This is a basic example of the use of useReducer.
+This is a more advance example of the use of useReducer.
