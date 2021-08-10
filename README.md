@@ -1,9 +1,7 @@
 # Learn React Hooks
 
-## Learn useReducer In 20 Minutes
+## Learn useContext In 13 Minutes
 
-[Video: Learn useReducer In 20 Minutes](https://www.youtube.com/watch?v=kK_Wqx3RnHk&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h&index=6&t=22s)
+[Video: Learn useContext In 13 Minutes](https://www.youtube.com/watch?v=5LrDIWkK_Bc&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h&index=5)
 
-[Article: How to Manage Complex State in React with useReducer](https://blog.webdevsimplified.com/2020-06/use-reducer/)
-
-This is a more advance example of the use of useReducer.
+[Article: How To Use Context In React With Hooks](https://blog.webdevsimplified.com/2020-06/use-context/)
